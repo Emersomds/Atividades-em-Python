@@ -8,7 +8,7 @@ Enunciado: Imagina-se que você é um dos programadores responsáveis pela const
      Ate 9                         0% na unidade
      entre 10 e 99                 5% na unidade
      entre 100 e 999               10% na unidade
-  de 1000 para mais                15% na unidade   
+     de 1000 para mais             15% na unidade   
 
   Elabore um programa em Python que:
 1.	Entre com o valor unitário do produto (Lembrar que número decimal é feito com ponto e não vírgula);
@@ -19,7 +19,11 @@ Enunciado: Imagina-se que você é um dos programadores responsáveis pela const
 6.	Colocar um exemplo de SAIDA DE CONSOLE de compra de mais de 10 und. (para mostrar que o desconto foi aplicado)
 
        -----------#-----------#------------
+       
          Informe o Valor do produto: 150
+         
          Informe a Quantidade de Produto? 10
-         O valor sem desconto foi 1500.0 
+         
+         O valor sem desconto foi 1500.0
+         
          O valor com desconto foi : $1425.0  (Desconto de 5%).
